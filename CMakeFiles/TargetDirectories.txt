@@ -1,0 +1,8 @@
+/home/nullptr/open-source/simple-nlp/CMakeFiles/install/strip.dir
+/home/nullptr/open-source/simple-nlp/CMakeFiles/install/local.dir
+/home/nullptr/open-source/simple-nlp/CMakeFiles/install.dir
+/home/nullptr/open-source/simple-nlp/CMakeFiles/list_install_components.dir
+/home/nullptr/open-source/simple-nlp/CMakeFiles/rebuild_cache.dir
+/home/nullptr/open-source/simple-nlp/CMakeFiles/edit_cache.dir
+/home/nullptr/open-source/simple-nlp/CMakeFiles/nlp_tool.dir
+/home/nullptr/open-source/simple-nlp/CMakeFiles/simple_nlp.dir

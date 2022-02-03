@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nullptr/open-source/simple-nlp/include/simple_nlp.h
+string
+-
+vector
+-
+
+/home/nullptr/open-source/simple-nlp/src/simple_nlp.cpp
+../include/simple_nlp.h
+/home/nullptr/open-source/simple-nlp/include/simple_nlp.h
+dbg.h
+-
+

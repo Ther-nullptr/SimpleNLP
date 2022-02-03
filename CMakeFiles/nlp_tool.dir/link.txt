@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/nlp_tool.dir/src/main.cpp.o  -o nlp_tool  libsimple_nlp.a 

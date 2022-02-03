@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsimple_nlp.a  CMakeFiles/simple_nlp.dir/src/simple_nlp.cpp.o
+/usr/bin/ranlib libsimple_nlp.a
