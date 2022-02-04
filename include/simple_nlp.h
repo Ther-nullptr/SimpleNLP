@@ -21,6 +21,8 @@ struct NLP_Info
     int C;             /* correct characters */
     int W;             /* wrong characters */
     int N;             /* length of ref */
+
+    NLP_Info() : edit_distance(0), CER(0), S(0), D(0), I(0), C(0), W(0), N(0) {}
 };
 
 // lemma 1: if the length of one string is 0, then edit-distance is length of another string.

@@ -1,5 +1,5 @@
 #include "../include/simple_nlp.h"
-#include <dbg.h>
+#include <iostream>
 
 int edit_distance(std::string s1, std::string s2)
 {
@@ -111,9 +111,6 @@ NLP_Info get_details(std::string hyp, std::string ref)
             }
         }
     }
-
-    dbg(dp);
-    dbg(op);
 
     // calculate the num of 3 operations
     int m = len_s1;

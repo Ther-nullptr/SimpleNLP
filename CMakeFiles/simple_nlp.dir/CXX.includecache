@@ -15,6 +15,6 @@ vector
 /home/nullptr/open-source/simple-nlp/src/simple_nlp.cpp
 ../include/simple_nlp.h
 /home/nullptr/open-source/simple-nlp/include/simple_nlp.h
-dbg.h
+iostream
 -
 
