@@ -21,6 +21,8 @@ struct NLP_Info
     int C;             /* correct characters */
     int W;             /* wrong characters */
     int N;             /* length of ref */
+    /* TODO: after comparing two strings, we can format the two strings in a pretty way, like `diff` or `git diff` */
+    /* we can use Myers alogrithm to do this */
 
     NLP_Info() : edit_distance(0), CER(0), S(0), D(0), I(0), C(0), W(0), N(0) {}
 };
