@@ -7,6 +7,7 @@ A simple library and command line program to calculate nlp problems.
 ## setup
 `cmake` and `g++` is required.
 ```bash
+$ git submodule update --init --recursive
 $ cmake CMakeLists.txt
 $ make
 $ sudo make install
